@@ -5,7 +5,7 @@ from datetime import datetime
 import os
 import asyncio
 
-TOKEN = os.environ.get("TOKEN") or "YOUR_TOKEN_HERE"
+TOKEN = os.environ.get("TOKEN")
 ADMIN_ID = 863542771
 ADMIN_USERNAME = "@Vcare524"
 
